@@ -1,20 +1,20 @@
 # Pathways
 GUI Java Final Project
 
-Team Memebers:
+Team Members:
+
     Xavier Loera Flores
     Miguel Guitierrez
     Hai Xiao Feng
+Description:
 
-Description
     This was the final project for our Java Development class.
     The idea of the project was to show off a multipage Gui Application.
     The Project itself is a student class planner that will allow the student to select classes into a schedule for future terms.
     Students will be able to create an account, log in, edit their schedule, and save their progress
     
-    
-    d
 Files:
+
     Java Files
           The files can be found here: 
                 Pathways/Pathways/src/pathways/
