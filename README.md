@@ -44,21 +44,26 @@ Files:
                 left.png
                 logo.png
                 right.png
+                
+Project Requirements: 
 
-Deliverables:
 1.Project functional requirement and scope document:
-Work as a team, pick a project idea, then discuss the desirable features/functionalities of the application as if you are the users.   Pick 3-6 features that will be included in your project. 
+
+Work as a team, pick a project idea, then discuss the desirable features/functionalities of the application as if you are the users.Pick 3-6 features that will be included in your project. 
 Write a project functional requirement document, which should include the project description and describe the 3-6 features that you have picked for your application.  Any additional features can be listed in the document as future enhancement. 
+
 2.Design Document:
-Check with the instructor on your project scope to make sure it is appropriate.  Then design the project considering GUI, classes and data.   Make sure your design will support the functionalities listed in your project functionality requirement document.   
+Check with the instructor on your project scope to make sure it is appropriate.  Then design the project considering GUI,                   classes and data.   Make sure your design will support the functionalities listed in your project functionality requirement     document.   
 Write a design document that includes GUI design of all the screens/forms, Inheritance hierarchy diagram, class UML diagram and use case flow chart. 
 You may reference Model-View-Controller (MVC) design patterns in your design process.
 http://shulgadim.blogspot.com/2012/01/model-view-controller-mvc-pattern_13.html
 
 3.Program code:
 Based on your design, write JAVA programs to implement your design.  Save all the source code to be included in the final project document. 
+
 4.Test plan and result:
 Write up test plans for your project, test your programs follow the test plan. Save program output/screenshots.  
+
 Project Submission: Final Project Documentation: 
 Make sure that your application works well and meets the requirement of the project.  Then combine all the documents together into the final project document.  Please check out the follow for formal software project documents templates and samples.  
 http://sce2.umkc.edu/BIT/burrise/pl/appendix/Software_Documentation_Templates/
